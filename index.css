@@ -12,15 +12,16 @@
  
   a{
     text-decoration: none;
-    color:white;
+    color: #b0b0b0;
   }
 
   .yemeiright{
-    position: absolute;
-    right:200px;
-    top:8px;
-    
-
+    display:inline-block;
+    margin-left: 600px;
+  }
+  .shopping-car{
+    display:inline-block;
+    margin-left: 1225px;
   }
   .logo{
     margin-top:5px;
