@@ -32,6 +32,7 @@ body{
     margin-top:5px;
     top:60px;
     margin-left:100px;
+    display:inline-block;
   }
   .car{
     line-height:40px;
@@ -51,4 +52,18 @@ body{
 }
 .yemeiright{
   margin: auto 100px; auto 900px;
+}
+
+.text{
+  padding: 26px 10px 38px;
+  color:#333;
+  font-size:15px;
+  display:inline-block;
+}
+
+.daohang{
+  display:inline-block;
+  margin-left:100px;
+  
+  
 }
